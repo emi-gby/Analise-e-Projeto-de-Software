@@ -1,6 +1,6 @@
 # Analise e Projeto de Software
  
-## Análise e Projeto de Software
+## Trabalho de Composição da 2ª Nota
 
 Equipe:
 
